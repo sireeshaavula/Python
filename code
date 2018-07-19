@@ -5,3 +5,9 @@ host_ip = socket.gethostbyname(host_name)
 
 print ("hostname:", host_name)
 print ("hostip:",host_ip)
+
+Output
+('hostname:', 'ef64e9ae03c2')
+('hostip:', '172.17.0.2')
+
+
